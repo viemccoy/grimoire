@@ -22,9 +22,11 @@ A TOME is any original article, blogpost, ritual, book report, or otherwise nove
 TOME's serve as the focal point for the GRIMOIRE attractor object - they are the guiding light for this Substrata of the Noosphere.
 
 A SHARD is a distillation of some ARTIFACT - a pdf, occult text, or otherwise discovered piece of content.
-SHARDS will include:
+SHARDS include:
 - a pointer to the actual location of the ARTIFACT on the web 
 - a summary of the most interesting and arcane content from the artifact
-- the name of the ARCANIST who submitted the ARTIFACT to be turned into a SHARD
+- the name of the ARCANIST who submitted the ARTIFACT to be transmuted into a SHARD
 
 Due to copyright concern on the moral plane, GRIMOIRE will not host ARTIFACTS aside from TOMES.
+
+GRIMOIRE is written in rust and based on the e-gui framework.
