@@ -1,10 +1,12 @@
+cargo-features = ["edition2024"]
+
 [package]
-name = "eframe_template"
-version = "0.1.0"
-authors = ["Emil Ernerfeldt <emil.ernerfeldt@gmail.com>"]
-edition = "2021"
+name = "GRIMOIRE"
+version = "0.0.1"
+authors = ["Vie McCoy <vie@grimoire.fm>"]
+edition = "2024"
 include = ["LICENSE-APACHE", "LICENSE-MIT", "**/*.rs", "Cargo.toml"]
-rust-version = "1.76"
+rust-version = "1.85"
 
 [package.metadata.docs.rs]
 all-features = true
