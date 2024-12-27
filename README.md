@@ -43,4 +43,4 @@ The EXEGESIS window allows you to export all of the relevant content for the nod
 This can be used for creating better Language Model prompts, or crafting more interesting spells.
 
 GRIMOIRE is written in rust and based on the e-gui framework.
-If you want a specific feature, you can either email vie@grimoire.fm or submit a PR.
+If you want a specific feature, you can either email viemccoy@gmail.com or submit a PR.
