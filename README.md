@@ -9,8 +9,6 @@ Examples of content you can expect to run into inside of GRIMOIRE:
 - Pyschic Shielding Through Category Theory and Jungian Archetypes
 - Xenocognitive Analyses of Machine Learning Model Mindspaces
 - Electromagnetic Body Work Using Radio Frequency Analysis
-- Basic Demon Summonings
-- Advanced Demon Exorcisms
 - Virtual Reality As The Exteriorization of the Human Soul
 - Scientific Illuminism: The Synthesis of Magick and Method
 
